@@ -1,4 +1,4 @@
 # odin-recipes
 
-hello my name is jeremy sullivan this is
+this is the
 odin recipes section of the odin foundations course
